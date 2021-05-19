@@ -1,1 +1,1 @@
-# Wiki Layout Demo
+# Wiki Layout Ideas
